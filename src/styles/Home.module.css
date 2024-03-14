@@ -1,0 +1,27 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+  }
+  
+  .post-list {
+    list-style-type: none;
+
+    padding: 0;
+  }
+  
+  .post-list li {
+    border-bottom: 1px solid #ddd;
+    
+    padding: 10px;
+  }
+  
+  .post-list li:last-child {
+    border-bottom: none;
+  }
+
+  .container h1{
+    margin-bottom: 20px;
+  }
+  
