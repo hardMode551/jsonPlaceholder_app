@@ -6,6 +6,8 @@
 - Front: React + typeScript
 - Styles: css / module components
 
+Ссылка на демо: https://json-placeholder-app-smoky.vercel.app/
+
 ## Инструкция по клонированию репозитория
 
 - Откройте командную строку или терминал на вашем компьютере и перейдите в каталог, где вы хотите сохранить репозиторий.
